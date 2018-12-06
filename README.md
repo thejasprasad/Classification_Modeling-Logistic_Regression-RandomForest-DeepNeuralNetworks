@@ -1,4 +1,4 @@
-# Classification Modeling : Logistic Regression, RandomForest, Deep Neural Networks Using Keras and Tensorflow as backend.
+# Classification Modeling : Logistic Regression, RandomForest, Deep Neural Networks using Keras and Tensorflow as backend.
 
 The requirement is to analyze a confidential data set with 160,000 records and 50 columns/features to predict y - which takes on the value 0 (no) or 1 (yes). There was no information provided on the dataset on what each variables refers to or how the features are related to the outcome etc. Column names were provided as x0,x1,x2....x49 and atarget variable y (0/1).As the report was created, the focus was on creating a model that would be highly predictive of y (has the greatest accuracy), while providing interpretation where possible. Refer to python notebook for full commentary and detail explanation of the models used and their respective results.
 
